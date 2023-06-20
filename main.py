@@ -8,7 +8,6 @@ from opcua import client
 global cap
 global opcion
 global cont
-global a
 
 #Creamos las funciones
 def conectarOPCUA():
